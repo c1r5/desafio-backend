@@ -62,7 +62,7 @@ _Serviços de pagamento simplificado_
 
 ## Exemplo de Arquitetura
 
-![](https://github.com/c1r5/desafio-backend/blob/main/images/backend-challenge-arquitetura-inicial.png?raw=true)
+![](https://raw.githubusercontent.com/c1r5/desafio-backend/refs/heads/main/images/backend-challenge-arquitetura-inicial.png)
 
 ## Exemplo de Entity Relationship Diagram
 
